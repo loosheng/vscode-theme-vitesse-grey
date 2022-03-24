@@ -20,9 +20,9 @@ export const VitesseThemes = {
   secondaryForeground: ['#dedcd590', '#393a3490'],
   ignored: ['#dedcd530', '#393a3450'],
   faded: ['#dedcd510', '#393a3410'],
-  border: ['#181818', '#f0f0f0'],
-  background: ['#121212', '#ffffff'],
-  activeBackground: ['#181818', '#f5f5f5'],
+  border: ['#1e1e1e', '#f0f0f0'],
+  background: ['#1d1f21', '#ffffff'],
+  activeBackground: ['#343434', '#f5f5f5'],
 
   comment: ['#758575', '#a0ada0'],
   string: ['#c98a7d', '#b56959'],
