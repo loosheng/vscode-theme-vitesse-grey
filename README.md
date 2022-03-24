@@ -1,3 +1,11 @@
+
+> Change the background color to dark gray based on Vitesse Theme
+
+
+<p align="center">
+<img src="https://github.com/loosheng/static/blob/main/images/vitesse-theme-grey.png?raw=true">
+</p>
+
 <h1 align="center">Vitesse Theme for VS Code</h1>
 
 <p align="center">

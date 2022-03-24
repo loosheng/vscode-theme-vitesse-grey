@@ -1,8 +1,8 @@
 {
   "name": "theme-vitesse",
-  "displayName": "Vitesse Theme",
+  "displayName": "Vitesse Theme Dark Gray",
   "version": "0.1.14",
-  "description": "Vitesse theme for VS Code",
+  "description": "Vitesse dark grey theme for VS Code",
   "categories": [
     "Themes"
   ],
@@ -16,14 +16,14 @@
     "themes"
   ],
   "bugs": {
-    "url": "https://github.com/antfu/vscode-theme-vitesse/issues"
+    "url": "https://github.com/loosheng/vscode-theme-vitesse/issues"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/antfu/vscode-theme-vitesse"
+    "url": "https://github.com/loosheng/vscode-theme-vitesse"
   },
   "license": "MIT",
-  "publisher": "antfu",
+  "publisher": "loosheng",
   "scripts": {
     "build": "esno src/index.ts",
     "dev": "nodemon --watch src -e ts --exec \"esno src/index.ts\"",
