@@ -19,6 +19,6 @@ jobs:
       - run: npm i -g pnpm @antfu/ni
       - run: nci
       - run: yarn run build
-      - run: npx vsce publish -p ${{secrets.VSCE_TOKEN}}
+      - run: npx vsce publish -p ${{secrets.VSCE_TOKEN}} --no-dependencies --allow-star-activation
         env:
           VSCE_TOKEN: ${{secrets.VSCE_TOKEN}}
