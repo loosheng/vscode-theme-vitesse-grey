@@ -15,13 +15,13 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/loosheng/vscode-theme-vitesse"
+    "url": "https://github.com/loosheng/vscode-theme-vitesse-grey"
   },
   "files": [
     "themes"
   ],
   "bugs": {
-    "url": "https://github.com/loosheng/vscode-theme-vitesse/issues"
+    "url": "https://github.com/loosheng/vscode-theme-vitesse-grey/issues"
   },
   "publisher": "loosheng",
   "scripts": {
