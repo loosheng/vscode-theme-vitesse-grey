@@ -32,12 +32,12 @@
   "contributes": {
     "themes": [
       {
-        "label": "Vitesse Light",
+        "label": "Vitesse Gray Light",
         "uiTheme": "vs",
         "path": "./themes/vitesse-light.json"
       },
       {
-        "label": "Vitesse Dark",
+        "label": "Vitesse Gray Dark",
         "uiTheme": "vs-dark",
         "path": "./themes/vitesse-dark.json"
       }
