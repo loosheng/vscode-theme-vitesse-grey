@@ -20,7 +20,7 @@ export const VitesseThemes = {
   secondaryForeground: ['#dedcd590', '#393a3490'],
   ignored: ['#dedcd530', '#393a3450'],
   faded: ['#dedcd510', '#393a3410'],
-  border: ['#1e1e1e', '#f0f0f0'],
+  border: ['#303030', '#f0f0f0'],
   background: ['#1d1f21', '#ffffff'],
   activeBackground: ['#343434', '#f5f5f5'],
 
