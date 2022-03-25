@@ -1,8 +1,8 @@
 {
   "name": "theme-vitesse-grey",
-  "displayName": "Vitesse Theme Dark Gray",
+  "displayName": "Vitesse Theme Gray",
   "version": "0.1.14",
-  "description": "Vitesse dark grey theme for VS Code",
+  "description": "Vitesse grey theme for VS Code",
   "categories": [
     "Themes"
   ],
