@@ -1,5 +1,9 @@
 
-> Change the background color to dark gray based on Vitesse Theme
+> ！！！deprecated.
+ vitesse already supports low contrast.
+ use `Vitesse Light Soft` or `Vitesse Dark Soft`
+
+ Change the background color to dark gray based on Vitesse Theme
 
 
 <p align="center">
